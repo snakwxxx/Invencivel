@@ -11,6 +11,12 @@ header {
 section {
     padding-bottom: 5rem;
 }
+
+.nav-link {
+    color: #CB6D43;
+    font-weight: 600;
+}
+
 .nav-link {
     color: #CB6D43;
     font-weight: 600;
